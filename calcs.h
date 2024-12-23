@@ -3,6 +3,8 @@
 
 #include <iostream>
 #include <random>
+#include <array>
+
 constexpr auto NUM_RANDS = 1000;
 
 class Calcs
